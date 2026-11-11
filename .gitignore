@@ -1,0 +1,9 @@
+/_build/
+/deps/
+/*.ez
+/*.tar
+/erl_crash.dump
+
+# macOS metadata
+.DS_Store
+._*

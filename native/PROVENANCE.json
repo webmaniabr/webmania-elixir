@@ -1,0 +1,14 @@
+{
+  "schema": 2,
+  "worker_sha256": "1d81d4dff57a8b233d2ce9316d201fd10b2740203d9890ef87a87144ea0d0f15",
+  "worker_bytes": 18680256,
+  "sourcekit_sha256": "8d91f5dbfe48217c417d66fd773cbdf6bde43cd89877d53a4814835f62abf4e4",
+  "sourcekit_bytes": 19233081,
+  "metadata_sha256": "12c59c586019661a80ef15af99afe152283e8c927cbd47dd1b2a740d313c87ec",
+  "backend_crate_sha256": "1836197146b2604e83cf57a9ea1ef53712a9e256d7e686e97947c84f08ad0c8b",
+  "wire_name_audit_sha256": "acaf25a4ccf20ad509b60abc15b6a593045f62fde04031db473048d1eb3633e2",
+  "contract_digest": "371a499f74012bb6b41f23642869dee4954e8394dcba7642edc701aedb3dd59e",
+  "native_source_archive": "native/source/native-runtime-source-0.1.0-alpha.7.tar.gz",
+  "launcher_sha256": "04581eadc8ad83250af5e34a383be53bd7c6987a3b567fc6cce4b3eb31aea49d",
+  "launcher_binding": "The runtime supplies the exact worker digest to the bundled launcher."
+}
